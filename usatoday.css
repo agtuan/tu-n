@@ -9,7 +9,7 @@ header {
 
 }
 #logo {
-    width: 80.14px;
+    
     height: 52px;
     padding-left: 76.6px;
     
@@ -24,8 +24,8 @@ header {
 .nav-tabs{
     display: flex;
     list-style: none;
-    width: 896px;
-    height: 52px;
+    width: 1000px;
+    height: 71px;
     margin: 0px auto;
     border: 1px solid white;
     background-color: rgb(255, 255, 255);
@@ -48,7 +48,7 @@ header {
     
     
 }
-.nav-tabs li a p{
+.nav-tabs li p{
     display: inline-block;
     font-size: 13px;
     font-weight: bolder;
@@ -56,7 +56,6 @@ header {
     
     
 }
-
 header .menu .nav-menu{
     display: flex;
     list-style: none;
@@ -83,10 +82,29 @@ header .menu .nav-menu{
     font-weight: bolder;
     margin-right: 1px;
     padding-right: 210px;
-    margin-left: -100px;
-    color: blue;  
+    margin-left: -125px;
+    color: white;  
 }
-
+#dep{
+    width: 147px;
+    
+    
+    
+    
+}
+#banner{
+    text-align: center;
+    
+    
+    
+}
+#qc{
+    
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 50px;
+   
+}
 
 
 
